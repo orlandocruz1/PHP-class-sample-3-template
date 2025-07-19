@@ -13,7 +13,7 @@
 </div>
 
 <div class="row">
-Test site PHP footer || Test site PHP footer
+Test site PHP footer
 </div>
 </div>
 </footer>
