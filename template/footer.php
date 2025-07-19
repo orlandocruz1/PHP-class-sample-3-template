@@ -13,7 +13,7 @@
 </div>
 
 <div class="row">
-Copyright 2025 || Test site PHP footer
+Test site PHP footer || Test site PHP footer
 </div>
 </div>
 </footer>
